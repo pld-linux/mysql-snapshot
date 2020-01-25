@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tool for taking LVM snapshots of MySQL data and mounting them
 Name:		mysql-snapshot
 Version:	0.1.0
